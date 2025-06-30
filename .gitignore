@@ -1,0 +1,16 @@
+# Ignora arquivos e pastas temporárias/sensíveis
+node_modules/
+.env
+*.log
+*.tmp
+.DS_Store
+*.bak
+
+# Cache do sistema operacional
+Thumbs.db
+
+# Ignora arquivos de deploy pessoal/local
+.vscode/
+.idea/
+dist/
+build/
