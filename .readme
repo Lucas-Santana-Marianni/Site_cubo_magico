@@ -1,0 +1,22 @@
+# 🧩 Los Cubos
+
+**Los Cubos** é um site informativo e comercial dedicado ao mundo dos cubos mágicos. A proposta é apresentar diversos modelos, suas características e links de compra, além de oferecer conteúdo educativo e uma seção de contato.
+
+## 🌐 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📦 Funcionalidades
+
+- Navegação por abas (Início, Sobre, Serviços, Contato)
+- Galeria de produtos com links externos
+- Formulário de contato com validação de campos
+- Armazenamento local da aba ativa e posição do scroll
+- Informações sobre a empresa e serviços oferecidos
+
+## 🖼️ Demonstração
+
+Acesse a demonstração: 
+https://wobbly-rocky-nut.glitch.me/
